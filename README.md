@@ -49,6 +49,8 @@ math.html
     <title>Math Server</title>
 </head>
 <body>
+    <h1>UMA BHARATHI</h1>
+    <h1>26018686</h1>
 
     <form method="POST">
         {% csrf_token %}
@@ -103,10 +105,10 @@ urlpatterns = [ path('', views.churn_rate, name='churn_rate'), ]
 ```
 
 ## OUTPUT - SERVER SIDE:
-![alt text](<Screenshot (18).png>)
+![alt text](<Screenshot (28).png>)
 
 ## OUTPUT - WEBPAGE:
-![alt text](<Screenshot (17).png>)
+![alt text](<Screenshot (27).png>)
 
 ## RESULT:
 The the web page to calculate Churn Rate using server-side scripts is created successfully.
